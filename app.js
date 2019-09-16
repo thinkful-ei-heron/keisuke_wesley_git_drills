@@ -1,3 +1,3 @@
 'use strict';
-let myTeam = "Kei and Wesley";
+let myTeam = "Wesley and Kei";
 console.log(myTeam);
